@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React Tutorial Tic Tac Toe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is based on the official [React tutorial](https://reactjs.org/tutorial/tutorial.html).
+
+After completing the tutorial, I'm now using it as a sandbox to learn about a
+few more React things like testing.
+
 
 ## Available Scripts
 
